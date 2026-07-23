@@ -10,5 +10,8 @@
 ### [P00002. 拼接URL](solutions/002.cpp)
 - `string`类的`find`函数与`erase`函数
 
+### [P00003. 最小循环子数组](solutions/003.cpp)
+- `vector`的用法
+
 
 ---
