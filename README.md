@@ -30,5 +30,10 @@
 - `<cctype>`库中`isalpha`,`isdigit`,`isalnum`,`islower`,`isupper`,`isspace`,`ispunct`,`isprint`的用法
 - 利用`stoi`函数将数字字符串转化为`int`类,还可使用`<sstream>`库中的`stringstream`函数实现该功能
 
+### [P00009. 流水线调度](solutions/009.cpp)
+- `<queue>`中的优先队列`priority_queue`
+- `<functional>`中`greater<int>`参数规定的小顶堆
+- `sort`函数
+
 
 ---
