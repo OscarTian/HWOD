@@ -35,5 +35,13 @@
 - `<functional>`中`greater<int>`参数规定的小顶堆
 - `sort`函数
 
+## 2026.07.25
+
+### [P00010. 爱吃蟠桃的孙悟空](solutions/010.cpp)
+- `<sstream>`中的`stringstream`函数
+- `getline(cin, str)`函数的用法
+- `vector<int>`类的`push_back`函数
+- 二分查找
+
 
 ---
