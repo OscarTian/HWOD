@@ -43,5 +43,7 @@
 - `vector<int>`类的`push_back`函数
 - 二分查找
 
+### [P00012. 食堂供餐](solutions/012.cpp)
+
 
 ---
