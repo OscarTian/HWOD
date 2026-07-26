@@ -65,5 +65,8 @@
 ### [P00020. 字符串子序列 II](solutions/020.cpp)
 - 双指针法
 
+### [P00021. 荒岛求生](solutions/021.cpp)
+- `vector`用作栈类型的`push_back`,`empty`,`back`,`pop_back`函数
+
 
 ---
