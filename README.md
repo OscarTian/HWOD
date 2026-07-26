@@ -78,5 +78,9 @@
 - `string`类中的`replace`,`string`函数
 - 栈
 
+### [P00101. 字符串加密](solutions/101.cpp)
+- `getline`函数
+- 全局变量
+
 
 ---
