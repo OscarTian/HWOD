@@ -74,5 +74,9 @@
 ### [P00025. 分班](solutions/025.cpp)
 - `cout`时空格字符` `的使用
 
+### [P00026. 仿LISP运算](solutions/026.cpp)
+- `string`类中的`replace`,`string`函数
+- 栈
+
 
 ---
