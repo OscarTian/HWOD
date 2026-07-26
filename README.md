@@ -68,5 +68,8 @@
 ### [P00021. 荒岛求生](solutions/021.cpp)
 - `vector`用作栈类型的`push_back`,`empty`,`back`,`pop_back`函数
 
+### [P00024. 机房布局](solutions/024.cpp)
+- 考虑边界情况
+
 
 ---
