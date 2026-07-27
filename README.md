@@ -97,5 +97,8 @@
 - `<numeric>`中的`gcd`函数
 - `<cmath>`中的`sqrt`函数
 
+### [P00110. 比赛](solutions/110.cpp)
+- `vector`类的`resize`函数与`assign`函数
+
 
 ---
