@@ -100,5 +100,7 @@
 ### [P00110. 比赛](solutions/110.cpp)
 - `vector`类的`resize`函数与`assign`函数
 
+### [P00111. 不含101的数](solutions/111.cpp)
+
 
 ---
