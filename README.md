@@ -93,5 +93,9 @@
 
 ### [P00106. 最短木板长度](solutions/106.cpp)
 
+### [P00107. 勾股数元组](solutions/107.cpp)
+- `<numeric>`中的`gcd`函数
+- `<cmath>`中的`sqrt`函数
+
 
 ---
