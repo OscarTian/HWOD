@@ -107,5 +107,9 @@
 ### [P00112. 实力差距最小总和](solutions/112.cpp)
 - 二维动态规划
 
+### [P00115. 打印机队列](solutions/115.cpp)
+- `<queue>`中的`priority_queue`优先队列
+- `pair`容器
+
 
 ---
